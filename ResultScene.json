@@ -1,4 +1,6 @@
 {
+  "info":[
+  {
   "iD": "TextBlock_ID",
   "name": "Test3",
   "colorText": {
@@ -145,3 +147,5 @@
   },
   "events": []
 }
+]
+};
