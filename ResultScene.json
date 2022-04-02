@@ -1,1 +1,147 @@
-
+{
+  "iD": "TextBlock_ID",
+  "name": "Test3",
+  "colorText": {
+    "r": 0.7940059900283813,
+    "g": 0.3073900043964386,
+    "b": 1,
+    "a": 1
+  },
+  "colorButton": {
+    "r": 0.008225999772548676,
+    "g": 0.10785599797964096,
+    "b": 1,
+    "a": 1
+  },
+  "week": [
+    {
+      "day": {
+        "morning": {
+          "free": true,
+          "priority": 1
+        },
+        "day": {
+          "free": true,
+          "priority": 1
+        },
+        "night": {
+          "free": true,
+          "priority": 1
+        }
+      }
+    },
+    {
+      "day": {
+        "morning": {
+          "free": true,
+          "priority": 1
+        },
+        "day": {
+          "free": true,
+          "priority": 1
+        },
+        "night": {
+          "free": true,
+          "priority": 1
+        }
+      }
+    },
+    {
+      "day": {
+        "morning": {
+          "free": true,
+          "priority": 1
+        },
+        "day": {
+          "free": true,
+          "priority": 1
+        },
+        "night": {
+          "free": true,
+          "priority": 1
+        }
+      }
+    },
+    {
+      "day": {
+        "morning": {
+          "free": true,
+          "priority": 1
+        },
+        "day": {
+          "free": true,
+          "priority": 1
+        },
+        "night": {
+          "free": true,
+          "priority": 1
+        }
+      }
+    },
+    {
+      "day": {
+        "morning": {
+          "free": true,
+          "priority": 1
+        },
+        "day": {
+          "free": true,
+          "priority": 1
+        },
+        "night": {
+          "free": true,
+          "priority": 1
+        }
+      }
+    },
+    {
+      "day": {
+        "morning": {
+          "free": true,
+          "priority": 1
+        },
+        "day": {
+          "free": true,
+          "priority": 1
+        },
+        "night": {
+          "free": true,
+          "priority": 1
+        }
+      }
+    },
+    {
+      "day": {
+        "morning": {
+          "free": true,
+          "priority": 1
+        },
+        "day": {
+          "free": true,
+          "priority": 1
+        },
+        "night": {
+          "free": true,
+          "priority": 1
+        }
+      }
+    }
+  ],
+  "change": {
+    "minChange": 0,
+    "maxChange": 0,
+    "minNightChange": 0,
+    "maxNightChange": 0
+  },
+  "senior": false,
+  "junior": false,
+  "unreal": {
+    "ready": false,
+    "days": 0
+  },
+  "job": {
+    "gT": false,
+    "fFA": false
+  },
+  "events": []
+}
